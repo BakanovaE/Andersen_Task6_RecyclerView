@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task5_Fragments</string>
+    <string name="button_contacts">Contacts</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="number">1234567</string>
+    <string name="save">Save</string>
+    <string name="delete_contact">Delete contact</string>
+    <string name="delete">Delete</string>
+    <string name="cancel"> Cancel</string>
+</resources>
